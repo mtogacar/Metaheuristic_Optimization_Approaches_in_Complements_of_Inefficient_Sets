@@ -1,9 +1,12 @@
 # Metaheuristic Optimization Approaches in Complements of Inefficient Sets
-....The codes of the study can be used by referring to the following article.
+The codes of the study can be used by referring to the following article.
 #
-Article Title: "............................." 
-Article Web: https://www...................................
-Article Doi Web: https://doi.org/..............................
+Article Title: "........................." 
+
+Article Web: https://www.......................
+
+Article Doi Web: https://doi.org/..................
+
 #
 #Mesut TOĞAÇAR #Fırat University, 
 artificial intelligence, deep learning, image processing, machine learning, optimization methods 
