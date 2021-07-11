@@ -7,8 +7,9 @@ Article Web: https://www.......................
 
 Article Doi Web: https://doi.org/..................
 #
-#Mesut TOĞAÇAR #Fırat University, 
-artificial intelligence, deep learning, image processing, machine learning, optimization methods 
+#Mesut TOĞAÇAR #Fırat University
+
+Artificial intelligence, Deep learning, Image processing, Machine learning, Optimization methods 
 
 E-mail: mtogacar@firat.edu.tr | mtogacar@gmail.com | togacar.mesut@hotmail.com
 #
